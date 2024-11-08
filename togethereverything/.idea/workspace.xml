@@ -1,66 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a514acf5-ccd2-4053-960e-f290ceebdf92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/togethereverything.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/greet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../togethereverywhere_tauriv1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../togethereverywhere_tauriv1/.idea/togethereverywhere_tauriv1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../togethereverywhere_tauriv1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/public/tauri.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/build.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/capabilities/default.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/128x128@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square107x107Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square142x142Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square150x150Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square284x284Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square30x30Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square310x310Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square44x44Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square71x71Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/Square89x89Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/StoreLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/icon.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/icons/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/src/lib.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src-tauri/tauri.conf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src/assets/react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src/main.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/src/vite-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/tsconfig.node.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../togethereverywhere/vite.config.ts" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/dbop.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/show.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-tauri/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-tauri/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-tauri/.idea/src-tauri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-tauri/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-tauri/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src-tauri/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-tauri/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src-tauri/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-tauri/tauri.conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/src-tauri/tauri.conf.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leo-Lionni&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leo-Lionni/TogetherThroughTimeAndSpace.git&quot;,
+    &quot;accountId&quot;: &quot;8bbd4632-ab93-4397-a6d0-34de1948ea99&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -77,7 +63,9 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/coding/rust-Proj/TogetherThroughTimeAndSpace/togethereverywhere_tauriv1&quot;,
@@ -115,12 +103,36 @@
       <option name="presentableId" value="Default" />
       <updated>1731037332285</updated>
       <workItem from="1731037333368" duration="697000" />
-      <workItem from="1731038053621" duration="1331000" />
+      <workItem from="1731038053621" duration="2983000" />
+      <workItem from="1731046466851" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
